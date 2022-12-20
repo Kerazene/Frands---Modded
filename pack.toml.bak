@@ -1,13 +1,13 @@
 name = "Frands - Modded"
 author = "Kerazene"
-version = "0.3"
+version = "0.0.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "12fe6f5eae830881050db8cc4fabb39c7ed5d927606bb6f0751ac6b5db6a7d05"
+hash = "1082e12552abb7fe8b14bc6ecfd505dc5887a0c9a32466f624ce37bb588df483"
 
 [versions]
-fabric = "0.14.11"
+fabric = "0.14.12"
 minecraft = "1.19.2"
