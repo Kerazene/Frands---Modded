@@ -601,18 +601,6 @@ file = "mods/Bookshelf-Fabric-1.19.2-16.2.16.jar"
 hash = "3f5ae69a40d4eb74a59db30bd56b25a9282f2b2d851201e7d5bf49f6eb76a60d"
 
 [[files]]
-file = "mods/BotanyPots-Fabric-1.19.2-9.0.17.jar"
-hash = "a26ba2743f929cc51ac63cc550108d0a3720cab4403a03ca360974b2711d91f1"
-
-[[files]]
-file = "mods/BotanyPotsTiers-Fabric-1.19.2-3.1.1.0.jar"
-hash = "72fe771d7c050b39083fdf380994e72fda348345ecac7e530a01f3fe7526793d"
-
-[[files]]
-file = "mods/BotanyTrees-Fabric-1.19.2-5.0.1.jar"
-hash = "5981cd34bac910f614db386fb089d658db4361235eba7fce8c66098c78ebc70b"
-
-[[files]]
 file = "mods/Clumps-fabric-1.19.2-9.0.0+14.jar"
 hash = "1b76528421cedf69b27f70a4a49f79ab7b2c3832f629102e98336c173e5d637d"
 
@@ -879,6 +867,10 @@ hash = "aef952162afca7b99a8bbe78f92a71641261f3232ba5eb46c7d282107ff692cd"
 [[files]]
 file = "mods/owo-lib-0.8.2+1.19.jar"
 hash = "2ed2c2b9d708c980698ff094c705a18fd47c14b82c8a08e067193a4c04b18bb5"
+
+[[files]]
+file = "mods/plantinajar-2.5.0.jar"
+hash = "0f69164879996c5c2d0c3433c0bf11070864253220946c151392bfd624fb96c4"
 
 [[files]]
 file = "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar"
