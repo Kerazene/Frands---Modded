@@ -777,10 +777,6 @@ file = "mods/dynamic-fps-2.2.0.jar"
 hash = "596c2924bad607f5820dc57f0b04387cbfc12894946970dde1e5050818196f7b"
 
 [[files]]
-file = "mods/emi-0.5.2+1.19.2.jar"
-hash = "4c0b67f31df9822293a6f9a6f2e42b46833e502bd1bddeab04de46639203795e"
-
-[[files]]
 file = "mods/enderchests-fabric-1.19-1.1.0.jar"
 hash = "4d30843afcfe6d8050f0dcaebf0fc1afa2d98889a269af9187c1319f3cd17214"
 
