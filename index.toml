@@ -773,6 +773,10 @@ file = "mods/deepslatecutting-fabric-1.5.0.jar"
 hash = "5c0894c5ed3620d7261b9b5abf30fca749ddc4677b8660efdf1032733da3bab1"
 
 [[files]]
+file = "mods/doubledoors-fabric_1.19.2-3.8.jar"
+hash = "c01d865b490abb66e94cb3a6dfb243a32185940c85208fe851b3e0e3df95a5e2"
+
+[[files]]
 file = "mods/dynamic-fps-2.2.0.jar"
 hash = "596c2924bad607f5820dc57f0b04387cbfc12894946970dde1e5050818196f7b"
 
@@ -935,3 +939,7 @@ hash = "358c6ca313222858140b7e4d34efb667b0a78739c0be91a2b12cd43efe0ca2f3"
 [[files]]
 file = "mods/wthit-fabric-5.13.4.jar"
 hash = "e55722168740020ad40fe777bf1da65839de2f1672a51b7a80e622373cde5dab"
+
+[[files]]
+file = "pack.toml.bak"
+hash = "508fea35b62f6f53d9af9e3f5936c70711c7b3fcb43c80badc1947ffa6530fbb"
