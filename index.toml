@@ -629,10 +629,6 @@ file = "mods/Kiwi-1.19.1-fabric-8.1.2.jar"
 hash = "13d4b4387c844e4ac1d9b61fbe1bb5278091dd10a3c61ed44612dd6ffc5cee5d"
 
 [[files]]
-file = "mods/MouseTweaks-fabric-mc1.19-2.22.jar"
-hash = "de3013e75ff44d20d4f79e8d517d2485cfd4a23654a09c40eff5fee396b836d6"
-
-[[files]]
 file = "mods/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.0.13.jar"
 hash = "54d557c551b25cf2c8877519c1f6868ae8b2637421fa14c4dc151f99222ba2e3"
 
@@ -679,10 +675,6 @@ hash = "6985cbd64c12fffbb04af4704b8798ee141c0a646d336704f0bf900ca01ba9f0"
 [[files]]
 file = "mods/alternate-current-mc1.19-1.4.0.jar"
 hash = "fa6e161a15dd2c52cb88179919e1b918d8f0a8de0b4454faad7d7b3c3b495c29"
-
-[[files]]
-file = "mods/antighost-1.19.1-fabric0.58.5-1.1.5.jar"
-hash = "98f729637b6a6023862eb14e2a892b76fcf56fdfd5ad659a7cdd47ac28fcf026"
 
 [[files]]
 file = "mods/appleskin-fabric-mc1.19-2.4.1.jar"
@@ -761,10 +753,6 @@ file = "mods/dashloader-4.1.3+1.19.jar"
 hash = "d34b6413ea7d9b8772b038e1b7d50fbc2b95124ab33a209a61f694eecf7e4c8d"
 
 [[files]]
-file = "mods/deepslatecutting-fabric-1.5.0.jar"
-hash = "5c0894c5ed3620d7261b9b5abf30fca749ddc4677b8660efdf1032733da3bab1"
-
-[[files]]
 file = "mods/doubledoors-fabric_1.19.2-3.8.jar"
 hash = "c01d865b490abb66e94cb3a6dfb243a32185940c85208fe851b3e0e3df95a5e2"
 
@@ -807,10 +795,6 @@ hash = "ebb90e7d95a5405c20312459d03234519ab5202a501c34bef73eca9db82434c7"
 [[files]]
 file = "mods/ftb-library-fabric-1902.3.10-build.162.jar"
 hash = "74ae7de78010af80a7da31d0d3eeaa7e63c0ccd03a5d3ecad79b7c4fb2f161ed"
-
-[[files]]
-file = "mods/ftb-teams-fabric-1902.2.10-build.76.jar"
-hash = "54b633450cab6df72daea77cba41acbce8cf069173074e0520f4525cdf57bee6"
 
 [[files]]
 file = "mods/ftb-ultimine-fabric-1902.3.5-build.65.jar"
@@ -869,6 +853,10 @@ file = "mods/modmenu-4.1.2.jar"
 hash = "b4c3f4d2a3d97272a34cd410434f180d9c8f018c620a1cd9dd04f490c8d8d681"
 
 [[files]]
+file = "mods/mousewheelie-1.10.6+mc1.19.2.jar"
+hash = "bb3184c4ed34d9bf3f8d6f2853de9a47cce437d73cc7cec723e80dab4740175f"
+
+[[files]]
 file = "mods/optigui-1.1.6.jar"
 hash = "aef952162afca7b99a8bbe78f92a71641261f3232ba5eb46c7d282107ff692cd"
 
@@ -895,10 +883,6 @@ hash = "8cfa7245b7e227eca57f36624e8306b5710a1372be1daf14cd97408c069fc013"
 [[files]]
 file = "mods/rhino-fabric-1902.2.2-build.264.jar"
 hash = "96a810daf5b085ba8545d48189aea23c2d8f956ed99c9e71835945b3496cab5c"
-
-[[files]]
-file = "mods/right-click-harvest-3.0.6.jar"
-hash = "a4a3e0dba4c431800ec679c8ee90c646b45bdafc08469194ea91aadd9a549869"
 
 [[files]]
 file = "mods/shetiphiancore-fabric-1.19-1.3.3.jar"
