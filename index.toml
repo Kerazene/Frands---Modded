@@ -813,8 +813,8 @@ file = "mods/ftb-teams-fabric-1902.2.10-build.76.jar"
 hash = "54b633450cab6df72daea77cba41acbce8cf069173074e0520f4525cdf57bee6"
 
 [[files]]
-file = "mods/ftb-ultimine-forge-1902.3.5-build.65.jar"
-hash = "b82ed24980594c67b1cd7576e317c80c41eda657fe03e0838033f2a6ba727320"
+file = "mods/ftb-ultimine-fabric-1902.3.5-build.65.jar"
+hash = "12deda640ea95b2da4bff5a9bc5ffdb6b1c4f3d2e0749f79575e64f44950a402"
 
 [[files]]
 file = "mods/geckolib-fabric-1.19-3.1.37.jar"
