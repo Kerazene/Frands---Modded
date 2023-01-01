@@ -741,6 +741,10 @@ file = "mods/create-fabric-0.5.0g-796+1.19.2.jar"
 hash = "d810a4fec80e897ce3b477fc54a809a043caa06cae40054db09a7767899270e2"
 
 [[files]]
+file = "mods/createaddition+1.19.2-1.19.2-20221218a.jar"
+hash = "74bdf835fcf1d92c3965cc84dbfa222d3a923fba104e768b1efc3d48020ffc04"
+
+[[files]]
 file = "mods/crops_love_rain-1.3.0.jar"
 hash = "f2e15f1682fb048ad2ad2b86e3e2b96d24087ef2993de9d586f40a73ced0d3e9"
 
