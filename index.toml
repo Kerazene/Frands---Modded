@@ -681,6 +681,10 @@ file = "mods/appleskin-fabric-mc1.19-2.4.1.jar"
 hash = "956d21e619d13d4a064513c4a0d490c382795b8466c79d6db61431d8532ef461"
 
 [[files]]
+file = "mods/appliedenergistics2-fabric-12.9.1.jar"
+hash = "3bdfccac680e311199abe11fab92a8e575c39d3491be52caf67891d9e4f554cd"
+
+[[files]]
 file = "mods/architectury-6.4.62-fabric.jar"
 hash = "b4160258039d71bf2ab5a54a7a22823944b79347b8c44f879dd77051c8e705e3"
 
@@ -803,10 +807,6 @@ hash = "12deda640ea95b2da4bff5a9bc5ffdb6b1c4f3d2e0749f79575e64f44950a402"
 [[files]]
 file = "mods/geckolib-fabric-1.19-3.1.37.jar"
 hash = "e7c079b23d55c6d980236d0703083d2f4f8be7dab5ec554004ad120bf8eb8e2a"
-
-[[files]]
-file = "mods/immersive-portals-2.3.1-mc1.19.2-fabric.jar"
-hash = "9bfce41d93fe1792f7f03766c0212634d68e7cad29fb7a5d9bd30d142654d32d"
 
 [[files]]
 file = "mods/indium-1.0.9+mc1.19.2.jar"
