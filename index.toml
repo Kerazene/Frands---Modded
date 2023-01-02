@@ -705,10 +705,6 @@ file = "mods/bettermounthud-1.2.0.jar"
 hash = "dc9685721e87e31bffdf2d55cdcd299274e32c2cb51651488362653578c6b104"
 
 [[files]]
-file = "mods/betterthanmending-1.3.0.jar"
-hash = "63353c727739ea254c780168e92d1096dbb8cc83be230f4302f554f9bfb25128"
-
-[[files]]
 file = "mods/borderless-mining-1.1.5+1.19.jar"
 hash = "3423a588e381225a61c99c060e54590514ef645b22301c7a1da8d1dd2912e20c"
 
