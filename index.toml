@@ -605,6 +605,10 @@ file = "mods/Bookshelf-Fabric-1.19.2-16.2.16.jar"
 hash = "3f5ae69a40d4eb74a59db30bd56b25a9282f2b2d851201e7d5bf49f6eb76a60d"
 
 [[files]]
+file = "mods/BuildingWands_mc1.19.2-2.6.4_release-fabric.jar"
+hash = "4db4b4cb25934c3b7b15f5ce86080efb691d0b29ed78e64424b73f12135bf392"
+
+[[files]]
 file = "mods/Clumps-fabric-1.19.2-9.0.0+14.jar"
 hash = "1b76528421cedf69b27f70a4a49f79ab7b2c3832f629102e98336c173e5d637d"
 
