@@ -21,6 +21,10 @@ file = "config/ae2/client.json"
 hash = "ca2539d6d9962ff5e43866855d22168160af121805f877d24401b93dde2a0358"
 
 [[files]]
+file = "config/ae2/client.json.bak"
+hash = "7b10da0a5f08b0b9b2e0c9d5af6bbfbdacc31d229e023f91cc0939a03bfc986f"
+
+[[files]]
 file = "config/ae2/common.json"
 hash = "7863a7dcee870bb7dad54ccff45089af1aa0f805eb2e387a5b0baf21042a2faa"
 
@@ -46,7 +50,7 @@ hash = "e66858a60a273f0bde8f515c1d167039b516c95c339ffe88d137f8532b23841a"
 
 [[files]]
 file = "config/bclib/cache.json"
-hash = "317afab35bd00956b2154a63ce7ef77169a0369c881fdc247db372f15e95f61b"
+hash = "e5608a3c43a64a0896e983d8e1ec4c2dc5e4b73f0b5e3d6d6b6add02bcf4b943"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -90,7 +94,7 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "14aeba501479d1054e62bd41be39ee61b8a775265452ef3d4187c421787e06ca"
+hash = "268db9ce84907ac1e9fdf7ab51e59fc475dbceea5dc2cacab01cd709a9c03d30"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
@@ -270,7 +274,7 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "555802383ab348b0a86c696ee558d5ca4bd6aff9c4e33e6483fe9ad79696eefe"
+hash = "96bc29680d881a04de32f8c5bb4e58114fb9e9e0b0cd6a1fb375c97c79854033"
 
 [[files]]
 file = "config/create-client.toml.bak"
@@ -278,7 +282,7 @@ hash = "323e08b9c7c592e1bbb8336e0992f39dd7c510ea7b3197c24227898197682fa1"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "73f17beea43725d9240cdbdb54d8314e3f6eaf1b5c0b157dafee3ad1477ca953"
+hash = "8f30a781d55890d50cfea57d237a155f04d8c29bf1c170eb176dabc4254b88c1"
 
 [[files]]
 file = "config/create-common.toml.bak"
@@ -354,7 +358,7 @@ hash = "021d7794e212a6360a10bf7e2d7da5d88a08c55783bdfe2767eb5c698ae95807"
 
 [[files]]
 file = "config/extended_drawers/common.properties"
-hash = "1dce2d349019cd3bda812c1a4583da5d2a81df962b03c7daeb9097c8df5fdecc"
+hash = "bf84911869e933776b6f1e07473508ded2f2a8b7fb7afc01f619d16ef448f6a4"
 
 [[files]]
 file = "config/extended_drawers/common.properties.bak"
@@ -362,7 +366,7 @@ hash = "b6d5a2e2415b910479e1d3461f97def4a1d9a2e818d6bf9a88856ba0f1586424"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "89a171c5845090645e821a10fcf7cf2829f3fbecbae6cec998b0abeae460f644"
+hash = "86de7024c4e7d35314e9c3c2b7ce6bfb00c57175fda5d6250c77fd687af3cfbb"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -546,11 +550,11 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "882981eb7d1803cf3cfa6b817daafcad084186c156c6f2d149eaae57fde18463"
+hash = "33657d32c61a07457abf1f011c461355993cd90a89ee2ac16d57d3396f596183"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
-hash = "fce150f042912bb94537e31b652f2f2677f9064525b6e1199592d9e7655b1b3d"
+hash = "2be81200e17f2497d4bcdddb7bc2e035ecc5715e66ffcd5dc5840fb68b70b754"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
@@ -591,6 +595,18 @@ hash = "96541875015dc968a9190d06a03208d7e43c9a5ef37b3a942c8eeffe60bca04a"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = "config/spark/tmp/spark-b0e1d8ddd3b55-libasyncProfiler.so.tmp"
+hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
+
+[[files]]
+file = "config/spark/tmp/spark-b0ec54452b032-profile-data.jfr.tmp"
+hash = "0f786bc58013ed061973ca4813af281b157cc2d21b7a3b8942704efb30fe1bfa"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -638,7 +654,7 @@ hash = "c1ca62a06fa00982157cbd68cd13f4b488dd13f1f335291ffe24550611f3a746"
 
 [[files]]
 file = "config/waystones.toml"
-hash = "30855668af1576d72922a580506450bad09757244d19d4076a8ca56e74b03f03"
+hash = "3076afcc00f35de4984abd2342176975aa12ebfd517bef922b043f61f936f5c0"
 
 [[files]]
 file = "config/waystones.toml.bak"
@@ -777,6 +793,10 @@ file = "mods/borderless-mining-1.1.5+1.19.jar"
 hash = "3423a588e381225a61c99c060e54590514ef645b22301c7a1da8d1dd2912e20c"
 
 [[files]]
+file = "mods/carpet-extra-1.19.1-1.4.83.jar"
+hash = "c3e2ad5b0cb93e23017aa653838707a505b32d2a9b2e6a1aafe3bc417941a84c"
+
+[[files]]
 file = "mods/chesttracker-1.19-1.1.17.jar"
 hash = "9a8bfffbc17ad570892a0c53f0c1153ee5d011a3c8b51d9bd039948798655d3e"
 
@@ -847,6 +867,10 @@ hash = "4af4d02bbd055cab253c74c283edde0708ab63b37982c1b4a7c09c75fbd80616"
 [[files]]
 file = "mods/fabric-api-0.69.0+1.19.2.jar"
 hash = "35503930be0b963d05bb7195733ddd6bb322c4de6d2a47a468fbca5535b0d49a"
+
+[[files]]
+file = "mods/fabric-carpet-1.19.2-1.4.84+v221018.jar"
+hash = "da593278fd653399661e2c58814909b52ea04ac117abc2f811b45420438ed790"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar"
