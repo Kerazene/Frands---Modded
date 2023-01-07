@@ -514,6 +514,10 @@ hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
 
 [[files]]
 file = "config/origins_server.json"
+hash = "c82c8be5ec9e05a7054dc72b395f5d7bc5d6045095419f48b263577cd86a0d2f"
+
+[[files]]
+file = "config/origins_server.json.bak"
 hash = "b26e9f64a41731a9154ac4488becb0269b62da504e4d3f0819d19787ac62c089"
 
 [[files]]
@@ -986,4 +990,4 @@ hash = "e55722168740020ad40fe777bf1da65839de2f1672a51b7a80e622373cde5dab"
 
 [[files]]
 file = "pack.toml.bak"
-hash = "9056307d7b27227d641c1341d5ce0617803683fa238cbbc6f8c25ca027c43291"
+hash = "084196c2d463f18a63d51993f96e6dd2af6d9316da3622487b88c69ddf38480b"

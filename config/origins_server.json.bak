@@ -5,17 +5,17 @@
       "enabled": true,
       "origins:throw_ender_pearl": true,
       "origins:water_vulnerability": true,
-      "origins:pumpkin_hate": false,
+      "origins:pumpkin_hate": true,
       "origins:extra_reach": true,
       "origins:ender_particles": true,
-      "origins:damage_from_potions": false
+      "origins:damage_from_potions": true
     },
     "origins:arachnid": {
       "enabled": true,
       "origins:climbing": true,
       "origins:master_of_webs": true,
-      "origins:carnivore": false,
-      "origins:fragile": false,
+      "origins:carnivore": true,
+      "origins:fragile": true,
       "origins:arthropod": true
     },
     "origins:human": {
@@ -24,30 +24,30 @@
     "origins:blazeborn": {
       "enabled": true,
       "origins:fire_immunity": true,
-      "origins:nether_spawn": false,
+      "origins:nether_spawn": true,
       "origins:burning_wrath": true,
       "origins:hotblooded": true,
       "origins:water_vulnerability": true,
       "origins:flame_particles": true,
-      "origins:damage_from_snowballs": false,
-      "origins:damage_from_potions": false
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
     },
     "origins:avian": {
       "enabled": true,
       "origins:slow_falling": true,
-      "origins:fresh_air": false,
+      "origins:fresh_air": true,
       "origins:like_air": true,
       "origins:tailwind": true,
-      "origins:lay_eggs": false,
-      "origins:vegetarian": false
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
     },
     "origins:feline": {
       "enabled": true,
       "origins:fall_immunity": true,
       "origins:sprint_jump": true,
       "origins:velvet_paws": true,
-      "origins:nine_lives": false,
-      "origins:weak_arms": false,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
       "origins:scare_creepers": true,
       "origins:cat_vision": true
     },
@@ -55,10 +55,10 @@
       "enabled": true,
       "origins:elytra": true,
       "origins:launch_into_air": true,
-      "origins:aerial_combatant": false,
-      "origins:light_armor": false,
-      "origins:claustrophobia": false,
-      "origins:more_kinetic_damage": false
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
     },
     "origins:shulk": {
       "enabled": true,
@@ -66,8 +66,8 @@
       "origins:natural_armor": true,
       "origins:strong_arms": true,
       "origins:strong_arms_break_speed": true,
-      "origins:no_shield": false,
-      "origins:more_exhaustion": false
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
     },
     "origins:merling": {
       "enabled": true,
@@ -86,9 +86,9 @@
       "origins:translucent": true,
       "origins:phasing": true,
       "origins:invisibility": true,
-      "origins:burn_in_daylight": false,
-      "origins:hunger_over_time": false,
-      "origins:fragile": false,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
       "origins:phantomize_overlay": true
     }
   }
