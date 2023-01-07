@@ -901,14 +901,6 @@ file = "mods/geckolib-fabric-1.19-3.1.37.jar"
 hash = "e7c079b23d55c6d980236d0703083d2f4f8be7dab5ec554004ad120bf8eb8e2a"
 
 [[files]]
-file = "mods/indium-1.0.9+mc1.19.2.jar"
-hash = "e0bee321e771ca46c4117a469cd916a71f8ce44cbfd35c006425775edfb79b50"
-
-[[files]]
-file = "mods/iris-mc1.19.2-1.4.5.jar"
-hash = "1b150a2ff968ae81a5782304127cd8a0df6cc69a74470cbb43c7b0352f26c590"
-
-[[files]]
 file = "mods/ironchests-3.1.1-fabric.jar"
 hash = "7570240fb004c3ac6efb3202d01782c37091b4faa02a541f3f220527c3462304"
 
@@ -957,10 +949,6 @@ file = "mods/plantinajar-2.5.0.jar"
 hash = "0f69164879996c5c2d0c3433c0bf11070864253220946c151392bfd624fb96c4"
 
 [[files]]
-file = "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar"
-hash = "3059027e2e29f0ec0eecbb32b187b735d2fcbafe5c1a1e5f9d0fd58ae3daa07c"
-
-[[files]]
 file = "mods/repurposed_structures_fabric-6.1.2+1.19.jar"
 hash = "270fdea1301e2d0e016e96594f56b917e62dde14c2cc58f4d4d58eef1b720410"
 
@@ -979,10 +967,6 @@ hash = "b0182f3fbdd00b8d06048f8fefe7d8c15ec7a0cbb4e7907187bbc4236efabb49"
 [[files]]
 file = "mods/shulkerdropstwo-fabric_1.19.2-2.4.jar"
 hash = "e0be6b70bba6d7d237c0218aef335b56c5cf78769791733671fe2c39f4e4f195"
-
-[[files]]
-file = "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
-hash = "12ecf3a81bcc18ae87e879124ccbc5d079e500be10e238bf61f56da5c3f7cf53"
 
 [[files]]
 file = "mods/spark-1.10.17-fabric.jar"
