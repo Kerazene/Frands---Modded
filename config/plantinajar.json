@@ -1,0 +1,10 @@
+{
+  "dropItems": true,
+  "growthTime": 30,
+  "perItemGrowthTimes": {
+    "byg:aspen_sapling": -1
+  },
+  "growthModifierRegexPatterns": {},
+  "blackList": [],
+  "forceBlackList": []
+}
