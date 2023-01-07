@@ -793,10 +793,6 @@ file = "mods/collective-fabric-1.19.2-5.22.jar"
 hash = "7be2fdc4910d120ee1e3b2d9586a5c58921e8ec02fae71d42daf2eab71427a1e"
 
 [[files]]
-file = "mods/colormatic-3.1.2+mc.1.19.jar"
-hash = "321c0525db0c818a9f5543bbde19a7c82176a6ae495953e13551430485e80fb3"
-
-[[files]]
 file = "mods/continuity-2.0.1+1.19.jar"
 hash = "e59efee5bc28b043cf5e1040dfa54c719153097c8519a9ef0c993dd1ff8ef46f"
 
